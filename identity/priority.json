@@ -1,0 +1,16 @@
+{
+ "_status": "DRAFT - owner ratification pending (per identity module)",
+ "_doctrine": "JIT run-priority per core doctrine: class 1 = statutory/commitment-critical (TRID disclosure clocks, lock expirations, closing/funding windows), class 2 = active file lifecycle and books. Pacing over braking: the siding scheduler paces class contention; nothing slam-stops.",
+ "classes": {
+  "P01": 2,
+  "P02": 1,
+  "P03": 2,
+  "P04": 2,
+  "P05": 2,
+  "P06": 2,
+  "P07": 1,
+  "P08": 1,
+  "P09": 2,
+  "P10": 2
+ }
+}
