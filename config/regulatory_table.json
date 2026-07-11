@@ -1,0 +1,19 @@
+{
+ "_status": "UNRATIFIED TEMPLATE - owner must edit, ratify (date + sign-off), then load; loads fail closed while this line stands",
+ "_table": "regulatory_table",
+ "_purpose": "TRID/ECOA/state periods (conservative on conflict)",
+ "_fields": [
+  "rule_id",
+  "jurisdiction",
+  "period",
+  "basis"
+ ],
+ "entries": [
+  {
+   "rule_id": "<example>",
+   "jurisdiction": "<example>",
+   "period": "<example>",
+   "basis": "<example>"
+  }
+ ]
+}
