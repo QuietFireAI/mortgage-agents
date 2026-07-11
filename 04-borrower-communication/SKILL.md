@@ -8,7 +8,7 @@ description: "Borrower communication. Use when borrowers need templated process 
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Communication hub (borrower-facing)
 **Autonomy tier:** Autonomous sends from approved templates; NO credit statements, rate promises, or advice - and nothing that could be a disclosure travels outside the disclosure lane
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

@@ -8,7 +8,7 @@ description: "Verification services. Use when employment, deposit, and housing-h
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Systems execution (VOE/VOD/VOM)
 **Autonomy tier:** Autonomous verification ordering and result-fact reporting through approved channels; a verification reports what the source said - interpretation is the underwriter's
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

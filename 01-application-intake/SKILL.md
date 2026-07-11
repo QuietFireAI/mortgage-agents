@@ -8,7 +8,7 @@ description: "Application intake. Use when loan applications need complete, sour
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Intake (loan application)
 **Autonomy tier:** Autonomous application capture and completeness checks; NEVER a credit opinion, rate promise, or qualification statement - those are licensed-MLO territory
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

@@ -7,7 +7,7 @@ description: "Swarm deployment: program checklist to inventoried documents and v
 
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Deployment playbook (consumed by Agent 00 - Dispatcher)
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ## Trigger
 `doc.request` checklist issued at file open, or a condition's evidence needs via 09.

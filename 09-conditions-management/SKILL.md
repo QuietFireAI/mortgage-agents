@@ -8,7 +8,7 @@ description: "Conditions management. Use when underwriting conditions need verba
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Coordination (underwriting conditions)
 **Autonomy tier:** Autonomous condition tracking, evidence assembly, and clearing-package preparation; conditions are cleared by the underwriter - the swarm assembles proof, never declares satisfaction
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

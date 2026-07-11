@@ -1,4 +1,4 @@
-# IDENTITY - Mortgage Loan Agent (v0.1 DRAFT)
+# IDENTITY - Mortgage Loan Agent (v0.1 (ratified 2026-07-11))
 
 The side-load: this file plus routes.json and priority.json turn the generic
 DispatcherAgents runtime into a mortgage-pipeline swarm. dispatcher-agents is
@@ -43,7 +43,7 @@ locks, condition clearing, value matters, funding.
 - Tuple layer per agent (DECISIONS.md) + swarm tuples (SWARM.md)
 - Conduct constants: MANNERS.md (hash-registered at boot attestation)
 
-## Playbook priority classes (per core JIT doctrine - DRAFT, owner ratification pending)
+## Playbook priority classes (per core JIT doctrine - ratified 2026-07-11, owner sign-off)
 
 Class 1 (statutory/commitment-critical): P02 disclosure clocks, P07 lock
 records, P08 clear-to-close & funding. Class 2 (active lifecycle + books):
@@ -65,4 +65,4 @@ ident = load_identity("/path/to/mortgage-agents")
 The loader is fail-closed: no routes.json, no track, no load. It audits the
 priority table's status on every load - never silently.
 
-## Status: v0.1 DRAFT - owner ratification pending; not runtime-hardened; no licensed legal, regulatory (TRID/ECOA/RESPA), or lending-compliance review.
+## Status: v0.1 ratified 2026-07-11 - owner sign-off; not runtime-hardened; no licensed legal, regulatory (TRID/ECOA/RESPA), or lending-compliance review.

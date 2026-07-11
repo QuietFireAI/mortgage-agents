@@ -7,7 +7,7 @@ description: "Swarm deployment: signed lock authority to recorded lock with expi
 
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Deployment playbook (consumed by Agent 00 - Dispatcher)
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ## Trigger
 Signed `lock.authority` arrives at 10, or an expiry lead-time alert fires.

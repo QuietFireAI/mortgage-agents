@@ -8,7 +8,7 @@ description: "Compliance and deadlines. Use when TRID, ECOA, and lock clocks nee
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Regulatory engine (TRID/ECOA clocks)
 **Autonomy tier:** Autonomous clock tracking and alerting; regulatory interpretations and any external response are human - clocks are facts, conservatism ratified
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

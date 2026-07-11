@@ -8,7 +8,7 @@ description: "Disclosure tracking. Use when TRID disclosure packages need assemb
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Regulatory production support (TRID disclosures)
 **Autonomy tier:** Autonomous disclosure package assembly and delivery-evidence tracking; every disclosure is human-reviewed and human-sent - the swarm builds and watches, the licensed human signs and sends
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

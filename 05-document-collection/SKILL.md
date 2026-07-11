@@ -8,7 +8,7 @@ description: "Document collection. Use when borrower financial documents need ch
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Evidence pipeline (borrower financial documents)
 **Autonomy tier:** Autonomous request, receipt, inventory, and chase per cadence; document authenticity judgments and income interpretation are human - custody is sealed to need-to-know (GLBA)
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

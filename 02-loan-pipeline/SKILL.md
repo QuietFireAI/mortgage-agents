@@ -8,7 +8,7 @@ description: "Loan pipeline. Use when files need milestone tracking, evidence or
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Coordination (file lifecycle, milestones)
 **Autonomy tier:** Autonomous milestone tracking, task orchestration, and status reporting; credit decisions, program changes, and adverse-action decisions are licensed-human territory - the pipeline moves paper, never judgment
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

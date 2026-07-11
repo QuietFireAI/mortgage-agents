@@ -8,7 +8,7 @@ description: "Loan file records. Use when interactions need the append-only loan
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** System of record (loan file, audit)
 **Autonomy tier:** Autonomous record keeping; the record is append-only - corrections are new entries referencing what they correct; borrower financial custody is need-to-know (GLBA)
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

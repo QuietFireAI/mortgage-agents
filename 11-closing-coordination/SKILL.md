@@ -8,7 +8,7 @@ description: "Closing coordination. Use when closings need review-ready fee-reco
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Coordination (closing, funding records)
 **Autonomy tier:** Autonomous closing logistics and package assembly; the Closing Disclosure send, closing instructions, and funding authorization are licensed/settlement-human acts - the swarm coordinates paper and calendars
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

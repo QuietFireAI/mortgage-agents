@@ -8,7 +8,7 @@ description: "Rate lock records. Use when locks, extensions, and relocks need ex
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Financial records (locks)
 **Autonomy tier:** RECORDS ONLY - every lock, extension, and relock executes solely on a signed human `lock.authority` envelope; the swarm never locks, never quotes, never times the market
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

@@ -7,7 +7,7 @@ description: "Swarm deployment: received application to opened, clock-instantiat
 
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Deployment playbook (consumed by Agent 00 - Dispatcher)
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ## Trigger
 `loan.application` package lands at 02.

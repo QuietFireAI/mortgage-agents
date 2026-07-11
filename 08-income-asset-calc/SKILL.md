@@ -8,7 +8,7 @@ description: "Income and asset calculation. Use when verified inputs need worksh
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Analysis assembly (calculation worksheets)
 **Autonomy tier:** Autonomous arithmetic per the ratified calculation methods; the WORKSHEET is underwriter work product - method selection judgment, exceptions, and qualification conclusions are the underwriter's
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

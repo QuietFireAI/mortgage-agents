@@ -8,7 +8,7 @@ description: "Daily operations. Use for the pipeline morning book, end-of-day bo
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Operations cadence (pipeline books)
 **Autonomy tier:** Autonomous book assembly and presentation; the human reads the book and directs - the book never self-executes its recommendations
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 

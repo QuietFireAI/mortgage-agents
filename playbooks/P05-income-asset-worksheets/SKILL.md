@@ -7,7 +7,7 @@ description: "Swarm deployment: verified documents to sourced calculation worksh
 
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Deployment playbook (consumed by Agent 00 - Dispatcher)
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ## Trigger
 Sufficient inventoried inputs land for a worksheet, or 09 requests one for a condition.

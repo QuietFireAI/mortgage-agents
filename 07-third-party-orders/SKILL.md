@@ -8,7 +8,7 @@ description: "Third-party orders. Use when appraisals, title, flood, insurance, 
 **Swarm:** DispatcherAgents Mortgage Swarm (Lending)
 **Type:** Vendor execution (appraisal, title, flood, insurance)
 **Autonomy tier:** Autonomous ordering and tracking through approved panels and AMC channels; appraiser independence is absolute - no value conversations, ever
-**Version:** 0.1 (DRAFT - not implemented)
+**Version:** 0.1 (ratified 2026-07-11 - owner sign-off; not runtime-hardened)
 
 ---
 
